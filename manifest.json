@@ -5,6 +5,7 @@
         "description": "Select a flashy pre-roll from local storage to run before any video content. The video details are loaded from disk after a video is played from the library from the beginning of the video. A random video is selected, and all videos in the local directory are enabled by default. Specific videos can be enabled or disabled as necessary. After videos are loaded for the first time, additional videos found in the directory are not enabled by default.",
         "overview": "Display flashy intros before movies and other videos",
         "owner": "Zach J Murphy",
+		"imageUrl": "https://raw.githubusercontent.com/zacjmurphy/repo/refs/heads/main/IntroEnhanced.png",
         "category": "MoviesAndShows",
         "versions": [
 	    {
@@ -23,7 +24,7 @@
         "description": "Sends notifications to services & platforms via webhooks.",
         "overview": "Sends notifications to services & platforms via webhooks.",
         "owner": "Zach J Murphy",
-        "imageUrl": "https://i.imgur.com/X8CXecs.png",
+        "imageUrl": "https://raw.githubusercontent.com/zacjmurphy/repo/refs/heads/main/WebhookEnhanced.png",
         "category": "Administration",
         "versions": [
 			{

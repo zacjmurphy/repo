@@ -12,9 +12,9 @@
                 "version": "5.0.0.0",
                 "changelog": "- Implemented Randomization Feature / Function",
                 "targetAbi": "12.0",
-                "sourceUrl": "https://github.com/zacjmurphy/Intros-Enhanced/releases/download/v1/intros-enhanced_5.0.0.0.zip",
-                "checksum": "c96fcf7c7e41420b2bbb239ad6d8042c",
-                "timestamp": "2026-10-03T04:17:00"
+                "sourceUrl": "https://github.com/zacjmurphy/Intros-Enhanced/releases/download/v2/intros-enhanced_5.0.0.0.zip",
+                "checksum": "c243a8254751a86cc9a2bf1d36e8991e",
+                "timestamp": "2026-10-04T12:06:39.783Z"
             }
         ]
     },
@@ -31,9 +31,9 @@
                 "version": "22.0.0.0",
                 "changelog": "- Add Live TV (IPTV) playback notifications (EnableLiveTv, IsLiveTv template flag)",
                 "targetAbi": "12.0",
-                "sourceUrl": "https://github.com/zacjmurphy/Webhook-Enhanced/releases/download/v2/webhook-enhanced_22.0.0.0.zip",
-                "checksum": "f43083c124c401ae103e98f54fc3e441",
-                "timestamp": "2026-10-03T05:17:00"
+                "sourceUrl": "https://github.com/zacjmurphy/Webhook-Enhanced/releases/download/v3/webhook-enhanced_22.0.0.0.zip",
+                "checksum": "5af44e428ba9a24e00a1725c3957945d",
+                "timestamp": "2026-10-04T12:06:39.783Z"
             }
         ]
     }

@@ -28,6 +28,14 @@
         "category": "Administration",
         "versions": [
 			{
+                "version": "23.0.0.0",
+                "changelog": "- Added Fluxer Integration",
+                "targetAbi": "12.0",
+                "sourceUrl": "https://github.com/zacjmurphy/Webhook-Enhanced/releases/download/v4/webhook-enhanced_23.0.0.0.zip",
+                "checksum": "314bfb7c3d98ccb9d68d1915dff59e53",
+                "timestamp": "2026-10-08T13:38:15Z"
+            },
+			{
                 "version": "22.0.0.0",
                 "changelog": "- Add Live TV (IPTV) playback notifications (EnableLiveTv, IsLiveTv template flag)",
                 "targetAbi": "12.0",
